@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    color: #005677;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 35px;
+    line-height: 84.69%;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 20px;
+    line-height: 84.69%;
+    letter-spacing: 3px;
+}
+
+section ul li i {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+}
+
+section ul li {
+    font-size: 15px;
+    line-height: 84.69%;
+    
+}
+
+.li-scnd-line {
+    margin-left: 75px;
+}
